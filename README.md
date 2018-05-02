@@ -22,3 +22,10 @@ A digital temperature and humidity sensor sends the data to the microcontroller 
 
 (1)   x Potentiometer (10k)​
 
+# Libraries
+- CayenneMQTT (to comunicate with Cayenne)
+- LiquidCrystal (to the LCD screen)
+- SimpleDHT (to use the sensor)
+
+# How to start the server (Windows)
+I use the serial port, so I need to run the server on my laptop; to do this I run the script "cayenne-ser.bat" followed by "-c" and the Comunication Port (the script is available on folder "\Arduino\libraries\CayenneMQTT\extras\scripts")
