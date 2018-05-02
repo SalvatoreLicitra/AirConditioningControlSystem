@@ -5,11 +5,20 @@ A digital temperature and humidity sensor sends the data to the microcontroller 
 
 # Components
 (1)   x Arduino Uno​
+
 (1)   x Breadboard​
+
 (20)  x Connectors M-M ​
+
 (3)   x Connectors M-F ​
+
 (3)   x 220 ohm Resistor ​
+
 (1)   x Led RGB​
+
 (1)   x DHT11 Temperature-Humidity Sensor​
+
 (1)   x Module LCD1602​
+
 (1)   x Potentiometer (10k)​
+
