@@ -9,6 +9,8 @@ hackster: https://www.hackster.io/salvatore-licitra/air-conditioning-control-sys
 
 linkedin: https://www.linkedin.com/in/salvatorelicitra/
 
+slideshare: https://www.slideshare.net/SalvatoreLicitra2/mydevices-cayenne-95815390
+
 # Components
 (1)   x Arduino Uno​
 
